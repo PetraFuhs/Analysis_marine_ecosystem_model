@@ -29,7 +29,7 @@ Zweitgutachter: Prof. Dr. Malte Braack
 Organisation of this repository:
 
 Section "Thesis": 
-This section contains the thesis as pdf file. 
+This section contains the thesis and its cover page as pdf files.
 
 Section "Matlab":
 		This section contains 5 MATLAB programs written & used 
